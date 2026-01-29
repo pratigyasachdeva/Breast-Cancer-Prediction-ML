@@ -127,20 +127,24 @@ This enhanced transparency and trust in the predictive system.
 ✅ **Final Accuracy:** ≈ **99.12%**
 
 
-▶️ How to Run the Project
-	1.	Clone the repository:
-       git clone https://github.com/your-username/Breast-Cancer-Prediction-ML
+## ▶️ How to Run the Project
+### 1.	Clone the repository:
+    git clone https://github.com/your-username/Breast-Cancer-Prediction-ML
   
-  2.	Open the notebook:
-       Breast_Cancer_Prediction.ipynb
+### 2.	Open the notebook:
+	Breast_Cancer_Prediction.ipynb
 
-📌 Conclusion
+---
+
+## 📌 Conclusion
 This project demonstrates how structured data preprocessing, robust machine learning models, and explainable AI techniques can be combined to build a highly accurate and interpretable breast cancer prediction system.
 The PCA-enhanced SVM model achieved superior performance and highlights the importance of dimensionality reduction in medical datasets.
 
 The project contributes to the broader goal of applying machine learning in healthcare for early diagnosis and clinical decision support.
 
-🔗 References
-	•	UCI Machine Learning Repository – Breast Cancer Dataset
-	•	Lundberg & Lee (2017) – SHAP Explainability
-	•	World Health Organization – Breast Cancer Factsheet
+---
+
+## 🔗 References
+- UCI Machine Learning Repository – Breast Cancer Dataset
+- Lundberg & Lee (2017) – SHAP Explainability
+- World Health Organization – Breast Cancer Factsheet
