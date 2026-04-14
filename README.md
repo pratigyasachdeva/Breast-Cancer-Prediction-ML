@@ -7,8 +7,7 @@ This project presents an end-to-end **machine learning–based diagnostic system
 
 The project was developed as part of a **Python and Machine Learning Internship** and focuses on building an accurate, interpretable, and reliable prediction pipeline suitable for healthcare decision-support systems.
 
-🎓 **Internship Certificate:**  
-👉 [View Certificate](https://drive.google.com/file/d/1yDcw3oTsvPqv_KwDXgOtIQHw4h-PrmVE/view)
+📜 **Internship Certificate:** [View Certificate](https://drive.google.com/file/d/1yDcw3oTsvPqv_KwDXgOtIQHw4h-PrmVE/view)
 
 ---
 
